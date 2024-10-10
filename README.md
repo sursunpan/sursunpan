@@ -62,7 +62,7 @@ HAL School Korwa, Amethi - 2017 (83%)
 
 📚 Projects
 
-Logic Square Technology HRMS API (Node.js): Developed API solutions to streamline HR processes.
+..Logic Square Technology HRMS API (Node.js): Developed API solutions to streamline HR processes.
 
 
 ..Vayco Hotel App with Alexa Support (Node.js): Engineered a hotel app with Alexa integration for enhanced user interaction.
@@ -75,5 +75,17 @@ Logic Square Technology HRMS API (Node.js): Developed API solutions to streamlin
 
 
 ..Funeral Web and Mobile App Backend (Node.js): Developed backend logic for a comprehensive funeral services app.
+
+
+📫 How to Reach Me
+
+
+Email: impsuraj1996@gmail.com
+
+
+Phone: +91 7651897635
+
+
+Location: Delhi, India
 
 
